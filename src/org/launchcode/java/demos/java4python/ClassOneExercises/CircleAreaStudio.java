@@ -1,6 +1,6 @@
-package exercises.ClassOneExercises;
+package org.launchcode.java.demos.java4python.ClassOneExercises;
 
-import static exercises.ClassOneExercises.ClassOneHelperMethods.*;
+import static org.launchcode.java.demos.java4python.ClassOneExercises.ClassOneHelperMethods.*;
 
 public class CircleAreaStudio {
     public static void main(String argsp[]) {

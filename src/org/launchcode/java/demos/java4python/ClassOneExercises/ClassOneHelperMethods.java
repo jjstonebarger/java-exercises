@@ -1,4 +1,4 @@
-package exercises.ClassOneExercises;
+package org.launchcode.java.demos.java4python.ClassOneExercises;
 
 import java.util.Scanner;
 
